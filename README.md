@@ -1,5 +1,7 @@
 # PERCY - Personal Emergency Rescue for Commercial Vehicles in Yearly Floods
 
+![image](Logo/logo-banner.jpeg)
+
 ## About PERCY
 
 PERCY is an innovative disaster management solution designed to address flood emergencies. It's an attachable kit that can be mounted on any commercial car, enabling vehicles to float during severe floods, thus ensuring passenger safety and reducing reliance on emergency services.
